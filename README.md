@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cpMaia
+- 👋 Hi, I’m @DelaMaia
 - 👀 I’m interested in  assuntos ligados a tecnologção e programação
 - 🌱 I’m currently  pesquisando, estudando e procurando evoluir meus conhecimentoss.
 - 💞️ I’m looking to collaborate on projetos  de programação em c++,php,java e  html,css,JavaScript e ntre outros.
